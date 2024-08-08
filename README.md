@@ -52,7 +52,7 @@ Welcome to the React Todo App! This application allows you to manage your tasks 
 
 ## Author
 
--- **Darshan Sadashiva**
+ **Darshan Sadashiva**
   - LinkedIn: [Darshan Sadashiva](https://www.linkedin.com/in/darshansadashiva/)
   - GitHub: [Darshan Sadashiva](https://github.com/darshansadashiva)
 
